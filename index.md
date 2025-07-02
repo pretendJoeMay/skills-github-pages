@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+title: Joe's blog
 ---
+
+# Blog
+Interesting things
